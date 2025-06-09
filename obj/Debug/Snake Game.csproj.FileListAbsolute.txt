@@ -1,0 +1,10 @@
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake_Game.SnakeGame.resources
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Vanessa\source\repos\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Vanessa\source\repos\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Vanessa\source\repos\Snake Game\obj\Debug\Snake Game.pdb
